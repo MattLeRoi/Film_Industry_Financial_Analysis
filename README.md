@@ -39,22 +39,16 @@ The data sets these conclusions and recommendations are based on are not compreh
 To maximize return on investment:
 
 -  Genre: horror + mystery
-
 -  Rating: higher = better
-
 -  Runtime: 75-90 minutes
 
 
 To maximize net profit:
 
 -  Budget: higher budget = higher net profit
-
 -  Genre: Animation or Sci-Fi
-
 -  Rating: higher = better
-
 -  Animation runtime: 105-120 minutes
-
 -  Sci-Fi runtime: 120-135 minutes
 
 
