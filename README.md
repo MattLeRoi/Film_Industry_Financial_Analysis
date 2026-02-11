@@ -36,7 +36,7 @@ The data sets these conclusions and recommendations are based on are not compreh
 
 ## Recommendations
 
-To maximize return on investment:
+To maximize return on investment: 
 
 -  Genre: horror + mystery
 -  Rating: higher = better
